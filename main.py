@@ -1,6 +1,5 @@
 import streamlit as st
 import fitz  # PyMuPDF
-import os
 
 st.set_page_config(page_title="Face Detection Using Computer Vision", layout="wide")
 
