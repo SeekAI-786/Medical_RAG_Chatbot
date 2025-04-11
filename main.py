@@ -7,9 +7,9 @@ st.title("Face Detection Using Computer Vision by GeekAI")
 
 # PDF file options
 pdf_files = {
-    "1. Face Detection Report": "1.pdf",
-    "2. Receipt Segmentation Workflow": "2.pdf",
-    "3. Resume Analyzer Report": "3.pdf"
+    "1. Face Detection Report": "Medical_RAG_Chatbot/1.pdf",
+    "2. Receipt Segmentation Workflow": "Medical_RAG_Chatbot/2.pdf",
+    "3. Resume Analyzer Report": "Medical_RAG_Chatbot/3.pdf"
 }
 
 # Select box to choose file
