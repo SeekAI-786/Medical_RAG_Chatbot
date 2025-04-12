@@ -1,2 +1,4 @@
-fitz
-frontend
+shutil
+pymupdf
+re
+langchain
