@@ -1,4 +1,4 @@
-🏏 CT RAG MODEL — AI-Powered Cricket Fan Engagement using RAG
+## 🏏 CT RAG MODEL — AI-Powered Cricket Fan Engagement using RAG
 
 This project is a **prototype Retrieval-Augmented Generation (RAG) solution**, designed to **empower AI models to learn from new data without the need for hours of retraining**. It was built **before the Champions Trophy**, with the goal of allowing fans to **explore and learn about previous editions** of the tournament.
 
